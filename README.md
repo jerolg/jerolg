@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Jerónimo López
 
-<!--
-**jerolg/jerolg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Physics Undergraduate (last semester) at University of Antioquia  
+📍 Medellín, Colombia  
+📧 jeronimo.lopezg25@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a physics student with interest and skills about **scientific instrumentation, data analysis, and embedded systems**.  
+I enjoy building solutions that combine **hardware and software**, especially using FPGA, Python, and IoT technologies.
+I have hands-on experience developing **data acquisition systems**, working with **signal processing**, and integrating **hardware-software environments** for real-world applications.
+
+I’m interested in opportunities where I can build impactful solutions through:
+
+- Embedded systems and FPGA-based design  
+- Applied machine learning for real-world challenges  
+- IoT systems for monitoring, sensing, and automation  
+- Data-driven decision making to improve processes and insights  
