@@ -1,6 +1,4 @@
-# Hi, I'm Jerónimo López
-
-🎓Physics Undergraduate at University of Antioquia | 📍 Medellín, Colombia | 📧 jeronimo.lopezg25@gmail.com  
+🎓Physics Undergraduate at Universidad de Antioquia | 📍 Medellín, Colombia | 📧 jeronimo.lopezg25@gmail.com | 🔬Member of GICM (Grupo de Instrumentación Científica y Microelectrónica) - Universidad de Antioquia | 📊 Developing skills in Data Engineering for Investment Analysis
 
 ---
 
