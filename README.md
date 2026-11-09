@@ -1,7 +1,5 @@
 🎓Physics Undergraduate at Universidad de Antioquia | 📍 Medellín, Colombia | 📧 jeronimo.lopezg25@gmail.com | 🔬Member of GICM (Grupo de Instrumentación Científica y Microelectrónica) - Universidad de Antioquia | 📊 Developing skills in Data Engineering for Investment Analysis
 
----
-
 ## About Me
 
 I’m a physics student with interest and skills about **scientific instrumentation, data analysis, and embedded systems**.  
