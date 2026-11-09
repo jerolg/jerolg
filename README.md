@@ -1,6 +1,6 @@
 # Hi, I'm Jerónimo López
 
-🎓Physics Undergraduate (last semester) at University of Antioquia | 📍 Medellín, Colombia | 📧 jeronimo.lopezg25@gmail.com  
+🎓Physics Undergraduate at University of Antioquia | 📍 Medellín, Colombia | 📧 jeronimo.lopezg25@gmail.com  
 
 ---
 
