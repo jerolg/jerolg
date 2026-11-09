@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Jerónimo López
+# Hi, I'm Jerónimo López
 
 🎓 Physics Undergraduate (last semester) at University of Antioquia  
-📍 Medellín, Colombia  
+📍  Medellín, Colombia  
 📧 jeronimo.lopezg25@gmail.com  
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a physics student with interest and skills about **scientific instrumentation, data analysis, and embedded systems**.  
 I enjoy building solutions that combine **hardware and software**, especially using FPGA, Python, and IoT technologies.
