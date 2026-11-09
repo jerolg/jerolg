@@ -16,5 +16,4 @@ I’m interested in opportunities where I can build impactful solutions through:
 
 - Embedded systems and FPGA-based design  
 - Applied machine learning for real-world challenges  
-- IoT systems for monitoring, sensing, and automation  
-- Data-driven decision making to improve processes and insights  
+- IoT systems for monitoring, sensing, and automation
